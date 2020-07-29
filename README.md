@@ -37,6 +37,7 @@ This is a list of my completed projects from the starter projects from Elegoo's 
 > ### Component Required:
 >
 >> - (1) x Elegoo Mega2560 R3
+>
 
 Resources for - Project 1: Blink<br/>
 [Code (MyBlink.ino)](https://github.com/CHill-Three/arduino.github.io/blob/master/Arduino/Project%201:%20Blink/MyBlink.ino)<br/>
