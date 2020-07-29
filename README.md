@@ -16,9 +16,8 @@ I hope you enjoy looking around!<br/>
         }
 </style>
 
-| Program |
+| [Back to Homepage](https://chill-three.github.io/) |
 | :-: |
-| [Home](https://chill-three.github.io/) |
 
 # Table of contents
 1. [Arduino Starter Projects](#Arduino Starter Projects)<br/>
