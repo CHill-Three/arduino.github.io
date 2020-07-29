@@ -8,8 +8,6 @@ I hope you enjoy looking around!<br/>
 <!-- Table of Contents (TITLES) -->
 
 <!-- Home Button (Home) -->
-{: .tablelines}
-
 <style>
 .tablelines table, .tablelines td, .tablelines th {
         border: 2px solid black;
