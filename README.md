@@ -5,7 +5,6 @@
 # CHill-Three's github.io Arduino Page
 Hey there! Welcome to my Arduino repository created on (7/29/2020)<br/>
 I hope you enjoy looking around!<br/>
-<!-- Table of Contents (TITLES) -->
 
 <!-- Home Button (Home) -->
 <style>
@@ -16,6 +15,8 @@ I hope you enjoy looking around!<br/>
 | :-: |
 | [Back to Homepage](https://chill-three.github.io/) |
 {: .tablelines}
+
+<!-- Table of Contents (TITLES) -->
 
 # Table of contents
 1. [Arduino Starter Projects](#Arduino Starter Projects)<br/>
@@ -30,9 +31,14 @@ This is a list of my completed projects from the starter projects from Elegoo's 
 
 <!-- Project 1: Blink (SUB-PARA) -->
 ### Project 1: Blink <a name="Project 1: Blink"></a>
-![MyBlink.gif](/Arduino/Project 1: Blink/MyBlink.gif)<br/>
+![MyBlink.gif](arduino.github.io/Arduino/Project 1: Blink/MyBlink.gif)<br/>
+
+<!-- Component Required List -->
+> ### Component Required:
+>> - (1) x Elegoo Mega2560 R3
+
 Resources for - Project 1: Blink<br/>
-[Code (MyBlink.ino)](https://github.com/CHill-Three/chill-three.github.io/blob/master/Arduino/Project%201:%20Blink/MyBlink.ino)<br/>
+[Code (MyBlink.ino)](https://github.com/CHill-Three/arduino.github.io/blob/master/Arduino/Project%201:%20Blink/MyBlink.ino)<br/>
 
 <!-- Project 2: LED (SUB-PARA) -->
 ### Project 2: LED <a name="Project 2: LED"></a>
