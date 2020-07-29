@@ -31,10 +31,11 @@ This is a list of my completed projects from the starter projects from Elegoo's 
 
 <!-- Project 1: Blink (SUB-PARA) -->
 ### Project 1: Blink <a name="Project 1: Blink"></a>
-![MyBlink.gif](arduino.github.io/Arduino/Project 1: Blink/MyBlink.gif)<br/>
+![MyBlink.gif](/Arduino/Project 1: Blink/MyBlink.gif)<br/>
 
 <!-- Component Required List -->
 > ### Component Required:
+>
 >> - (1) x Elegoo Mega2560 R3
 
 Resources for - Project 1: Blink<br/>
