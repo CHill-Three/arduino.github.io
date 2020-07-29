@@ -19,6 +19,8 @@ I hope you enjoy looking around!<br/>
 | [Back to Homepage](https://chill-three.github.io/) |
 | :-: |
 
+{: .tablelines}
+
 # Table of contents
 1. [Arduino Starter Projects](#Arduino Starter Projects)<br/>
   1A. [Project 1: Blink](#Project 1: Blink)<br/>
