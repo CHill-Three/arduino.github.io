@@ -23,6 +23,7 @@ I hope you enjoy looking around!<br/>
   1A. [Project 1: Blink](#Project 1: Blink)<br/>
   1B. [Project 2: LED](#Project 2: LED)<br/>
   1C. [Project 3: RGB LED](#Project 3: RGB LED)<br/>
+  1D. [Project 4: Digital Inputs](#Project 4: Digital Inputs)<br/>
 <!-- Table of Contents (BODY) -->
 
 <!-- Arduino -->
