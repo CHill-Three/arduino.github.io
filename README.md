@@ -43,11 +43,31 @@ Resources for - Project 1: Blink<br/>
 
 <!-- Project 2: LED (SUB-PARA) -->
 ### Project 2: LED <a name="Project 2: LED"></a>
+
+<!-- Component Required List -->
+> ### Components Required:
+>
+>> - (1) x Elegoo Mega2560 R3
+>> - (1) x 5mm red LED
+>> - (1) x 1k ohm resistor
+>> - (2) x M-M wires (Male to Male jumper wires)
+
+
 Resources for - Project 2: LED<br/>
-[No code is required for Project 2: LED (LED.ino)](https://github.com/CHill-Three/chill-three.github.io/blob/master/Arduino/Project%202:%20LED/LED.ino)<br/>
+[No code is required for Project 2: LED (LED.ino)](https://github.com/CHill-Three/arduino.github.io/blob/master/Arduino/Project%202:%20LED/LED.ino)<br/>
 
 <!-- Project 3: RGB LED (SUB-PARA) -->
 ### Project 3: RGB LED <a name="Project 3: RGB LED"></a>
 ![RGBLed.gif](/Arduino/Project 3: RGB LED/RGBLed.gif)<br/>
+
+<!-- Component Required List -->
+> ### Components Required:
+>
+>> - (1) x Elegoo Mega2560 R3
+>> - (1) x 830 Tie Points Breadboard
+>> - (4) x M-M wires (Male to Male jumper wires)
+>> - (1) x RGB LED
+>> - (3) x 220 ohm resistors
+
 Resources for - Project 3: RGB LED<br/>
-[Code (RGBLed.ino)](https://github.com/CHill-Three/chill-three.github.io/blob/master/Arduino/Project%203:%20RGB%20LED/RGBLed.ino)<br/>
+[Code (RGBLed.ino)](https://github.com/CHill-Three/arduino.github.io/blob/master/Arduino/Project%203:%20RGB%20LED/RGBLed.ino)<br/>
