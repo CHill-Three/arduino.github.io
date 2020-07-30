@@ -20,10 +20,11 @@ I hope you enjoy looking around!<br/>
 
 # Table of contents
 1. [Arduino Starter Projects](#Arduino Starter Projects)<br/>
-  1A. [Project 1: Blink](#Project 1: Blink)<br/>
-  1B. [Project 2: LED](#Project 2: LED)<br/>
-  1C. [Project 3: RGB LED](#Project 3: RGB LED)<br/>
-  1D. [Project 4: Digital Inputs](#Project 4: Digital Inputs)<br/>
+  I. [Project 1: Blink](#Project 1: Blink)<br/>
+  II. [Project 2: LED](#Project 2: LED)<br/>
+  III. [Project 3: RGB LED](#Project 3: RGB LED)<br/>
+  IV. [Project 4: Digital Inputs](#Project 4: Digital Inputs)<br/>
+  V. [Project 5: Active Buzzer](#Project 5: Active Buzzer)<br/>
 <!-- Table of Contents (BODY) -->
 
 <!-- Arduino -->
@@ -90,3 +91,17 @@ Resources for - Project 3: RGB LED<br/>
 
 Resources for - Project 4: Digital Inputs<br/>
 [Code (DigitalInput.ino)](https://github.com/CHill-Three/arduino.github.io/blob/master/Arduino/Project%204:%20Digital%20Inputs/DigitalInputs.ino)<br/>
+
+<!-- Project 5: Active Buzzer (SUB-PARA) -->
+### Project 5: Active Buzzer <a name="Project 5: Active Buzzer"></a>
+![ActiveBuzzer.gif](/Arduino/Project 5: Active Buzzer/ActiveBuzzer.gif)<br/>
+
+<!-- Component Required List -->
+> ### Components Required:
+>
+>> - (1) x Elegoo Mega2560 R3
+>> - (1) x Active buzzer
+>> - (2) x F-M wires (Female to Male DuPont wires)
+
+Resources for - Project 5: Active Buzzer<br/>
+[Code (ActiveBuzzer.ino)](https://github.com/CHill-Three/arduino.github.io/blob/master/Arduino/Project%205:%20Active%20Buzzer/ActiveBuzzer.ino)<br/>
