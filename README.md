@@ -43,6 +43,7 @@ Resources for - Project 1: Blink<br/>
 
 <!-- Project 2: LED (SUB-PARA) -->
 ### Project 2: LED <a name="Project 2: LED"></a>
+![LED.gif](/Arduino/Project 2: LED/LED.gif)<br/>
 
 <!-- Component Required List -->
 > ### Components Required:
