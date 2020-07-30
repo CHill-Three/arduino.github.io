@@ -72,3 +72,20 @@ Resources for - Project 2: LED<br/>
 
 Resources for - Project 3: RGB LED<br/>
 [Code (RGBLed.ino)](https://github.com/CHill-Three/arduino.github.io/blob/master/Arduino/Project%203:%20RGB%20LED/RGBLed.ino)<br/>
+
+<!-- Project 4: Digital Inputs (SUB-PARA) -->
+### Project 4: Digital Inputs <a name="Project 4: Digital Inputs"></a>
+![DigitalInput.gif](/Arduino/Project 4: Digital Inputs/DigitalInput.gif)<br/>
+
+<!-- Component Required List -->
+> ### Components Required:
+>
+>> - (1) x Elegoo Mega2560 R3
+>> - (1) x 830 Tie-points Breadboard
+>> - (1) x 5mm red LED
+>> - (1) x 220 ohm resistor
+>> - (2) x push switches
+>> - (7) x M-M wires (Male to Male jumper wires)
+
+Resources for - Project 4: Digital Inputs<br/>
+[Code (DigitalInput.ino)](https://github.com/CHill-Three/arduino.github.io/blob/master/Arduino/Project%204:%20Digital%20Inputs/DigitalInputs.ino)<br/>
