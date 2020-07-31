@@ -53,6 +53,7 @@ Resources for - Project 1: Blink<br/>
 > ### Components Required:
 >
 >> - (1) x Elegoo Mega2560 R3
+>> - (1) x 830 Tie Points Breadboard
 >> - (1) x 5mm colored LED (For my attempt, I chose a Red LED)
 >> - (1) x 1k ohm resistor (Try different resistors to see it's effect on the LED)
 >> - (2) x M-M wires (Male to Male jumper wires)
@@ -130,6 +131,7 @@ Resources for - Project 6: Passive Buzzer<br/>
 > ### Components Required:
 >
 >> - (1) x Elegoo Mega2560 R3
+>> - (1) x 830 Tie Points Breadboard
 >> - (1) x Tilt Ball switch
 >> - (1) x 5mm colored LED (For my attempt, I chose a Blue LED)
 >> - (1) x 1k ohm resistor
