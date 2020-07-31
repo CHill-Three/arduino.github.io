@@ -27,6 +27,7 @@ I hope you enjoy looking around!<br/>
   V. [Project 5: Active Buzzer](#Project 5: Active Buzzer)<br/>
   VI. [Project 6: Passive Buzzer](#Project 6: Passive Buzzer)<br/>
   VII. [Project 7: Tilt Ball Switch](#Project 7: Tilt Ball Switch)<br/>
+  VIII. [Project 8: Servo](#Project 8: Servo)<br/>
 <!-- Table of Contents (BODY) -->
 
 <!-- Arduino -->
@@ -140,3 +141,17 @@ Resources for - Project 6: Passive Buzzer<br/>
 
 Resources for - Project 7: Tilt Ball Switch<br/>
 [Code (TiltBallSwitch.ino)](https://github.com/CHill-Three/arduino.github.io/blob/master/Arduino/Project%207:%20Tilt%20Ball%20Switch/TiltBallSwitch.ino)<br/>
+
+<!-- Project 8: Servo (SUB-PARA) -->
+### Project 8: Servo <a name="Project 8: Servo"></a>
+![Servo.gif](/Arduino/Project 8: Servo/Servo.gif)<br/>
+
+<!-- Component Required List -->
+> ### Components Required:
+>
+>> - (1) x Elegoo Mega2560 R3
+>> - (1) x Servo (SG90)
+>> - (3) x M-M wires (Male to Male jumper wires)
+
+Resources for - Project 8: Servo<br/>
+[Code (Servo.ino)](https://github.com/CHill-Three/arduino.github.io/blob/master/Arduino/Project%208:%20Servo/Servo.ino)<br/>
