@@ -25,6 +25,7 @@ I hope you enjoy looking around!<br/>
   III. [Project 3: RGB LED](#Project 3: RGB LED)<br/>
   IV. [Project 4: Digital Inputs](#Project 4: Digital Inputs)<br/>
   V. [Project 5: Active Buzzer](#Project 5: Active Buzzer)<br/>
+  VI. [Project 6: Passive Buzzer](#Project 6: Passive Buzzer)<br/>
 <!-- Table of Contents (BODY) -->
 
 <!-- Arduino -->
@@ -105,3 +106,17 @@ Resources for - Project 4: Digital Inputs<br/>
 
 Resources for - Project 5: Active Buzzer<br/>
 [Code (ActiveBuzzer.ino)](https://github.com/CHill-Three/arduino.github.io/blob/master/Arduino/Project%205:%20Active%20Buzzer/ActiveBuzzer.ino)<br/>
+
+<!-- Project 6: Passive Buzzer (SUB-PARA) -->
+### Project 6: Passive Buzzer <a name="Project 6: Passive Buzzer"></a>
+![PassiveBuzzer.gif](/Arduino/Project 6: Passive Buzzer/PassiveBuzzer.gif)<br/>
+
+<!-- Component Required List -->
+> ### Components Required:
+>
+>> - (1) x Elegoo Mega2560 R3
+>> - (1) x Passive buzzer
+>> - (2) x F-M wires (Female to Male DuPont wires)
+
+Resources for - Project 6: Passive Buzzer<br/>
+[Code (PassiveBuzzer.ino)](https://github.com/CHill-Three/arduino.github.io/blob/master/Arduino/Project%206:%20Passive%20Buzzer/PassiveBuzzer.ino)<br/>
