@@ -26,6 +26,7 @@ I hope you enjoy looking around!<br/>
   IV. [Project 4: Digital Inputs](#Project 4: Digital Inputs)<br/>
   V. [Project 5: Active Buzzer](#Project 5: Active Buzzer)<br/>
   VI. [Project 6: Passive Buzzer](#Project 6: Passive Buzzer)<br/>
+  VII. [Project 7: Tilt Ball Switch](#Project 7: Tilt Ball Switch)<br/>
 <!-- Table of Contents (BODY) -->
 
 <!-- Arduino -->
@@ -120,3 +121,20 @@ Resources for - Project 5: Active Buzzer<br/>
 
 Resources for - Project 6: Passive Buzzer<br/>
 [Code (PassiveBuzzer.ino)](https://github.com/CHill-Three/arduino.github.io/blob/master/Arduino/Project%206:%20Passive%20Buzzer/PassiveBuzzer.ino)<br/>
+
+<!-- Project 7: Tilt Ball Switch (SUB-PARA) -->
+### Project 7: Tilt Ball Switch <a name="Project 7: Tilt Ball Switch"></a>
+![TiltBall.gif](/Arduino/Project 7: Tilt Ball Switch/TiltBall.gif)<br/>
+
+<!-- Component Required List -->
+> ### Components Required:
+>
+>> - (1) x Elegoo Mega2560 R3
+>> - (1) x Tilt Ball switch
+>> - (1) x 5mm colored LED (For my attempt, I chose a Blue LED)
+>> - (1) x 1k ohm resistor
+>> - (2) x M-M wires (Male to Male jumper wires)
+>> - (2) x F-M wires (Female to Male DuPont wires)
+
+Resources for - Project 7: Tilt Ball Switch<br/>
+[Code (TiltBallSwitch.ino)](https://github.com/CHill-Three/arduino.github.io/blob/master/Arduino/Project%207:%20Tilt%20Ball%20Switch/TiltBallSwitch.ino)<br/>
