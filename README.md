@@ -28,6 +28,7 @@ I hope you enjoy looking around!<br/>
   VI. [Project 6: Passive Buzzer](#Project 6: Passive Buzzer)<br/>
   VII. [Project 7: Tilt Ball Switch](#Project 7: Tilt Ball Switch)<br/>
   VIII. [Project 8: Servo](#Project 8: Servo)<br/>
+  IX. [Project 9: Ultrasonic Sensor Module](#Project 9: Ultrasonic Sensor Module)<br/>
 <!-- Table of Contents (BODY) -->
 
 <!-- Arduino -->
@@ -155,3 +156,18 @@ Resources for - Project 7: Tilt Ball Switch<br/>
 
 Resources for - Project 8: Servo<br/>
 [Code (Servo.ino)](https://github.com/CHill-Three/arduino.github.io/blob/master/Arduino/Project%208:%20Servo/Servo.ino)<br/>
+
+<!-- Project 9: Ultrasonic Sensor Module (SUB-PARA) -->
+### Project 9: Ultrasonic Sensor Module <a name="Project 9: Ultrasonic Sensor Module"></a>
+![UltraSonic.gif](/Arduino/Project 9: Ultrasonic Sensor Module/UltraSonic.gif)<br/>
+![UltraSonicData.gif](/Arduino/Project 9: Ultrasonic Sensor Module/UltraSonicData.gif)<br/>
+![UltraSonicDataPt2.gif](/Arduino/Project 9: Ultrasonic Sensor Module/UltraSonicDataPt2.gif)<br/>
+<!-- Component Required List -->
+> ### Components Required:
+>
+>> - (1) x Elegoo Mega2560 R3
+>> - (1) x Ultrasonic sensor module
+>> - (4) x F-M wires (Female to Male DuPont wires)
+
+Resources for - Project 9: Ultrasonic Sensor Module<br/>
+[Code (UltraSonic.ino)](https://github.com/CHill-Three/arduino.github.io/blob/master/Arduino/Project%209:%20Ultrasonic%20Sensor%20Module/UltraSonic.ino)<br/>
