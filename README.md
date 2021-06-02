@@ -4,7 +4,6 @@
 <!-- Title -->
 # CHill-Three's github.io Arduino Page
 Hey there! Welcome to my Arduino repository created on July 29, 2020. <br/>
-I hope you enjoy looking around!<br/>
 
 <!-- Home Button (Home) -->
 <style>
