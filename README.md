@@ -3,7 +3,7 @@
 
 <!-- Title -->
 # CHill-Three's github.io Arduino Page
-Hey there! Welcome to my Arduino repository created on (7/29/2020)<br/>
+Hey there! Welcome to my Arduino repository created on July 29, 2020. <br/>
 I hope you enjoy looking around!<br/>
 
 <!-- Home Button (Home) -->
@@ -33,7 +33,7 @@ I hope you enjoy looking around!<br/>
 
 <!-- Arduino -->
 ## Arduino Starter Projects <a name="Arduino Starter Projects"></a>
-This is a list of my completed projects from the starter projects from Elegoo's Arduino manuel
+Arduino is an educational C-programming platform resource designed for users to create and/or modify electronic system designs. This is a list of my completed projects from the starter projects derived from Elegoo’s Arduino manuel.
 
 <!-- Project 1: Blink (SUB-PARA) -->
 ### Project 1: Blink <a name="Project 1: Blink"></a>
