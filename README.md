@@ -62,7 +62,7 @@ Arduino is an educational C-programming (C++) platform resource designed for use
 <!-- Description & Learning Overview -->
 > ### Description:
 >
->> Project 2: LED demonstrated with the MEGA2560 R3 board, is the second project from Elegoo’s Arduino manuel. This particular project utilizes a single controllable 5mm  colored LED on a connected breadboard. Within this project, the concept of 'resistors' is extremely important when it comes to LED brightness. Elegoo’s Arduino manuel has multiple visuals ranging from resistor band codes, connection and wiring diagrams to an overall photo of the finished product. With this information in mind, the goal of this project is to get the 5mm LED to light up and try different resistors for different LED brightness results.
+>> Project 2: LED demonstrated with the MEGA2560 R3 board, is the second project from Elegoo’s Arduino manuel. This particular project utilizes a single controllable 5mm colored LED on a connected breadboard. Within this project, the concept of 'resistors' is extremely important when it comes to LED brightness. Elegoo’s Arduino manuel has multiple visuals ranging from resistor band codes, connection and wiring diagrams, to an overall photo of the finished product. With this information in mind, the goal of this project is to get the 5mm LED to light up and try different resistors for different LED brightness results.
 >
 > ### Components Required:
 >
@@ -84,7 +84,11 @@ Arduino is an educational C-programming (C++) platform resource designed for use
 ### Project 3: RGB LED <a name="Project 3: RGB LED"></a>
 ![RGBLed.gif](/Arduino/Project 3: RGB LED/RGBLed.gif)<br/>
 
-<!-- Component Required List -->
+<!-- Description & Learning Overview -->
+> ### Description:
+>
+>> Project 3: RGB LED demonstrated with the MEGA2560 R3 board, is the third project from Elegoo’s Arduino manuel. This particular project utilizes a single controllable 5mm RGB LED on a connected breadboard. Instead of the two leads as seen with the 5mm colored LED in the last project, this 5mm RGB LED has a total of four leads. Within the RGB LED, there are actually three colored LEDs: red, green and blue. Each of the colored LEDs has a specific lead associated with it, hence the requirement of four total leads. In addition, instead of utilizing different resistors for different brightness levels, we utilize the 'analogWrite' function in Arduino. This particular function allows us to designate a specific variable amount of power to the three different colored LEDs. This goes into a theory called Pulse Width Modulation (PWM), which is explored in depth within the manuel. Lastly, Elegoo’s Arduino manuel has multiple visuals ranging from an RGB color chart, RGB LED schematics and wiring diagrams, to an overall photo of the finished product. With this information in mind, the goal of this project is to get the 5mm RGB LED to light up and try different RGB LED values to get different LED color results.
+>
 > ### Components Required:
 >
 >> - (1) x Elegoo Mega2560 R3
@@ -92,9 +96,14 @@ Arduino is an educational C-programming (C++) platform resource designed for use
 >> - (4) x M-M wires (Male to Male jumper wires)
 >> - (1) x RGB LED
 >> - (3) x 220 ohm resistors
-
-Resources for - Project 3: RGB LED<br/>
-[Code (RGBLed.ino)](https://github.com/CHill-Three/arduino.github.io/blob/master/Arduino/Project%203:%20RGB%20LED/RGBLed.ino)<br/>
+>
+> ### Learning Overview:
+>
+>> In my opinion, Project 3: RGB LED was perhaps the most fun project out of the projects I did complete within Elegoo’s Arduino manuel. It was interesting changing the values of the RGB LED to create a specific color and seeing it transition to different colors. Difficulty wise, coming directly off of Project 2: LED, this project was pretty simple: the only real change was utilizing the analogWrite function instead of specific resistors from the previous project. Overall, I'm glad that the author(s) of this manuel put this project very early on as, I'd say that this is a great project to get younger individuals interested with circuits. Out of all the projects within Elegoo’s Arduino manuel, if you had to do one, I would suggest doing this. If you decide to take on this project, I hope you enjoy it as well!
+>
+> ### Resource(s) for - Project 3: RGB LED:
+>
+>>[Code (RGBLed.ino)](https://github.com/CHill-Three/arduino.github.io/blob/master/Arduino/Project%203:%20RGB%20LED/RGBLed.ino)<br/>
 
 <!-- Project 4: Digital Inputs (SUB-PARA) -->
 ### Project 4: Digital Inputs <a name="Project 4: Digital Inputs"></a>
