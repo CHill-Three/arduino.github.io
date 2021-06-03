@@ -32,7 +32,7 @@ Hey there! Welcome to my Arduino repository created on July 29, 2020. <br/>
 
 <!-- Arduino -->
 ## Arduino Starter Projects <a name="Arduino Starter Projects"></a>
-Arduino is an educational C-programming platform resource designed for users to create and/or modify electronic system designs. This is a list of my completed projects from the starter projects derived from Elegoo’s Arduino manuel. I hope you enjoy!
+Arduino is an educational C-programming (C++) platform resource designed for users to create and/or modify electronic system designs. This is a list of my completed projects from the starter projects derived from Elegoo’s Arduino manuel. I hope you enjoy!
 
 <!-- Project 1: Blink (SUB-PARA) -->
 ### Project 1: Blink <a name="Project 1: Blink"></a>
