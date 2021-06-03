@@ -49,7 +49,7 @@ Arduino is an educational C-programming (C++) platform resource designed for use
 >
 > ### Learning Overview:
 >
->> For me, the most difficult part of the project was setting up the MEGA2560 R3 board. I had diffculties connecting to the board which, I later found out that it was the result of old and/or faulty drivers. Once that out of the way, programming the project was simple and I was able to complete the task of getting the LED to blink once, turn off and repeat the cycle. Overall, I enjoyed this project and I concur with the author(s) of this manuel that this should be the first project of series. If you decide to take on this project, I hope you enjoy it as well!
+>> For me, the most difficult part of the project was setting up the MEGA2560 R3 board. I had diffculties connecting to the board which, I later found out that it was the result of old and/or faulty drivers. Once that out of the way, programming the project was simple and I was able to complete the task of getting the LED to blink once, turn off and repeat the cycle. Overall, I enjoyed this project and I concur with the author(s) of this manuel that this should be the first project of series. If you decide to take on this project, I hope you enjoy it!
 >
 > ### Resource(s) for - Project 1: Blink:
 >
@@ -74,7 +74,7 @@ Arduino is an educational C-programming (C++) platform resource designed for use
 >
 > ### Learning Overview:
 >
->> In my opinion, the most important lesson to take away from this project is: the concept of 'resistors.' As Elegoo’s Arduino manuel states, "resistors resist the flow of electricity. The higher the value of the resistor, the more it resists and the less electrical current will flow through it." Learning and understanding this concept is crucial when utilzing circuits: it is a fundamental building block when learning about circuits. For instance, if too much current flows through an LED, it is destroyed: so we must utilize a resistor to limit the current. Thankfully, we do not need to worry about that outcome in this environment as the max voltage from this MEGA2560 R3 board is 5V. Overall, I enjoyed this project and though it is perhaps simpler than Project 1: Blink, the concept of resistors is a bit complex to understand at first. If you decide to take on this project, I hope you enjoy it as well!
+>> In my opinion, the most important lesson to take away from this project is: the concept of 'resistors.' As Elegoo’s Arduino manuel states, "resistors resist the flow of electricity. The higher the value of the resistor, the more it resists and the less electrical current will flow through it." Learning and understanding this concept is crucial when utilzing circuits: it is a fundamental building block when learning about circuits. For instance, if too much current flows through an LED, it is destroyed: so we must utilize a resistor to limit the current. Thankfully, we do not need to worry about that outcome in this environment as the max voltage from this MEGA2560 R3 board is 5V. Overall, I enjoyed this project and though it is perhaps simpler than Project 1: Blink, the concept of resistors is a bit complex to understand at first. If you decide to take on this project, I hope you enjoy it!
 >
 > ### Resource(s) for - Project 2: LED:
 >
@@ -99,7 +99,7 @@ Arduino is an educational C-programming (C++) platform resource designed for use
 >
 > ### Learning Overview:
 >
->> In my opinion, Project 3: RGB LED was perhaps the most fun project out of the projects I did complete within Elegoo’s Arduino manuel. It was interesting changing the values of the RGB LED to create a specific color and seeing it transition to different colors. Difficulty wise, coming directly off of Project 2: LED, this project was pretty simple: the only real change was utilizing the analogWrite function instead of specific resistors from the previous project. Overall, I'm glad that the author(s) of this manuel put this project very early on as, I'd say that this is a great project to get younger individuals interested with circuits. Out of all the projects within Elegoo’s Arduino manuel, if you had to do one, I would suggest doing this. If you decide to take on this project, I hope you enjoy it as well!
+>> In my opinion, Project 3: RGB LED was perhaps the most fun project out of the projects I did complete within Elegoo’s Arduino manuel. It was interesting changing the values of the RGB LED to create a specific color and seeing it transition to different colors. Difficulty wise, coming directly off of Project 2: LED, this project was pretty simple: the only real change was utilizing the analogWrite function instead of specific resistors from the previous project. Overall, I'm glad that the author(s) of this manuel put this project very early on as, I'd say that this is a great project to get younger individuals interested with circuits. Out of all the projects within Elegoo’s Arduino manuel, if you had to do one, I would suggest doing this. If you decide to take on this project, I hope you enjoy it!
 >
 > ### Resource(s) for - Project 3: RGB LED:
 >
