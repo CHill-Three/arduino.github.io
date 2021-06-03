@@ -41,7 +41,7 @@ Arduino is an educational C-programming platform resource designed for users to 
 <!-- Description & Learning Overview -->
 > ### Description:
 >
->> Project 1: Blink demonstrated with the MEGA2560 R3 board is the first project from Elegoo’s Arduino manuel. This particular project utilizes the single controllable LED that is present on the board and is often referred to and labeled as the 'L' LED. Within the code, LED 'L' is pin number '13' on the MEGA2560 R3 board and "on most Arduinos" according to Elegoo’s Arduino manuel. With this information in mind, the goal of this project is to get the LED to blink once, turn off and repeat the said cycle.
+>> Project 1: Blink demonstrated with the MEGA2560 R3 board, is the first project from Elegoo’s Arduino manuel. This particular project utilizes the single controllable LED that is present on the board and is often referred to and labeled as the 'L' LED. Within the code, LED 'L' is pin number '13' on the MEGA2560 R3 board and "on most Arduinos" according to Elegoo’s Arduino manuel. With this information in mind, the goal of this project is to get the LED to blink once, turn off and repeat the said cycle.
 >
 > ### Components Required:
 >
