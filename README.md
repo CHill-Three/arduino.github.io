@@ -62,7 +62,7 @@ Arduino is an educational C-programming platform resource designed for users to 
 <!-- Description & Learning Overview -->
 > ### Description:
 >
->> Project 2: LED demonstrated with the MEGA2560 R3 board, is the second project from Elegoo’s Arduino manuel. This particular project utilizes a single controllable 5mm  colored LED on a connected breadboard. Within this project, the concept of 'resistors' is extremely important when it comes to LED brightness. Elegoo’s Arduino manuel has multiple visuals ranging from resistor band codes, connection and wiring diagrams to and overall photo of the finished product. With this information in mind, the goal of this project is to get the 5mm LED to light up and try different resistors for different LED brightness results.
+>> Project 2: LED demonstrated with the MEGA2560 R3 board, is the second project from Elegoo’s Arduino manuel. This particular project utilizes a single controllable 5mm  colored LED on a connected breadboard. Within this project, the concept of 'resistors' is extremely important when it comes to LED brightness. Elegoo’s Arduino manuel has multiple visuals ranging from resistor band codes, connection and wiring diagrams to an overall photo of the finished product. With this information in mind, the goal of this project is to get the 5mm LED to light up and try different resistors for different LED brightness results.
 >
 > ### Components Required:
 >
