@@ -59,7 +59,11 @@ Arduino is an educational C-programming platform resource designed for users to 
 ### Project 2: LED <a name="Project 2: LED"></a>
 ![LED.gif](/Arduino/Project 2: LED/LED.gif)<br/>
 
-<!-- Component Required List -->
+<!-- Description & Learning Overview -->
+> ### Description:
+>
+>> Project 2: LED demonstrated with the MEGA2560 R3 board, is the second project from Elegoo’s Arduino manuel. This particular project utilizes a single controllable 5mm  colored LED on a connected breadboard. Within this project, the concept of 'resistors' is extremely important when it comes to LED brightness. Elegoo’s Arduino manuel has multiple visuals ranging from resistor band codes, connection and wiring diagrams to and overall photo of the finished product. With this information in mind, the goal of this project is to get the 5mm LED to light up and try different resistors for different LED brightness results.
+>
 > ### Components Required:
 >
 >> - (1) x Elegoo Mega2560 R3
@@ -67,10 +71,14 @@ Arduino is an educational C-programming platform resource designed for users to 
 >> - (1) x 5mm colored LED (For my attempt, I chose a Red LED)
 >> - (1) x 1k ohm resistor (Try different resistors to see it's effect on the LED)
 >> - (2) x M-M wires (Male to Male jumper wires)
+>
+> ### Learning Overview:
+>
+>> In my opinion, the most important lesson to take away from this project is: the concept of 'resistors.' As Elegoo’s Arduino manuel states, "resistors resist the flow of electricity. The higher the value of the resistor, the more it resists and the less electrical current will flow through it." Learning and understanding this concept is crucial when utilzing circuits: it is a fundamental building block when learning about circuits. For instance, if too much current flows through an LED it is destroyed, so we must utilize a resistor to limit the current. Thankfully, we do not need to worry about that outcome in this environment as, the max voltage from this MEGA2560 R3 board is 5V. Overall, I enjoyed this project and though it is perhaps simpler than Project 1: Blink, the concept of resistors is a bit complex to understand at first. If you decide to take on this project, I hope you enjoy it as well!
 
-
-Resources for - Project 2: LED<br/>
-[No code is required for Project 2: LED (LED.ino)](https://github.com/CHill-Three/arduino.github.io/blob/master/Arduino/Project%202:%20LED/LED.ino)<br/>
+> ### Resource(s) for - Project 2: LED:
+>
+>>[No code is required for Project 2: LED (LED.ino)](https://github.com/CHill-Three/arduino.github.io/blob/master/Arduino/Project%202:%20LED/LED.ino)<br/>
 
 <!-- Project 3: RGB LED (SUB-PARA) -->
 ### Project 3: RGB LED <a name="Project 3: RGB LED"></a>
