@@ -50,9 +50,10 @@ Arduino is an educational C-programming platform resource designed for users to 
 > ### Learning Overview:
 >
 >> For me, the most difficult part of the project was setting up the MEGA2560 R3 board. I had diffculties connecting to the board which, I later found out that it was the result of old and/or faulty drivers. Once that out of the way, programming the project was simple and I was able to complete the task of getting the LED to blink once, turn off and repeat the cycle. Overall, I enjoyed this project and I concur with the author(s) of this manuel that this should be the first project of series.
-
-Resources for - Project 1: Blink<br/>
-[Code (MyBlink.ino)](https://github.com/CHill-Three/arduino.github.io/blob/master/Arduino/Project%201:%20Blink/MyBlink.ino)<br/>
+>
+> ### Resource(s) for - Project 1: Blink:
+>
+>> [Code (MyBlink.ino)](https://github.com/CHill-Three/arduino.github.io/blob/master/Arduino/Project%201:%20Blink/MyBlink.ino)<br/>
 
 <!-- Project 2: LED (SUB-PARA) -->
 ### Project 2: LED <a name="Project 2: LED"></a>
