@@ -99,7 +99,7 @@ Arduino is an educational C-programming (C++) platform resource designed for use
 >
 > ### Learning Overview:
 >
->> In my opinion, Project 3: RGB LED was perhaps the most fun project out of the projects I did complete within Elegoo’s Arduino manuel. It was interesting changing the values of the RGB LED to create a specific color and seeing it transition to different colors. Difficulty wise, coming directly off of Project 2: LED, this project was pretty simple: the only real change was utilizing the analogWrite function to control the voltage instead of utilizing specific resistors from the previous project. Overall, I'm glad that the author(s) of this manuel put this project very early on as, I'd say that this is a great project to get younger individuals interested with circuits. Out of all the projects within Elegoo’s Arduino manuel, if you had to do one, I would suggest doing this. If you decide to take on this project, I hope you enjoy it!
+>> For me, Project 4: Digital Inputs was perhaps the most fun project out of the projects I did complete within Elegoo’s Arduino manuel. It was interesting changing the values of the RGB LED to create a specific color and seeing it transition to different colors. Difficulty wise, coming directly off of Project 2: LED, this project was pretty simple: the only real change was utilizing the analogWrite function to control the voltage instead of utilizing specific resistors from the previous project. Overall, I'm glad that the author(s) of this manuel put this project very early on as, I'd say that this is a great project to get younger individuals interested with circuits. Out of all the projects within Elegoo’s Arduino manuel, if you had to do one, I would suggest doing this. If you decide to take on this project, I hope you enjoy it!
 >
 > ### Resource(s) for - Project 3: RGB LED:
 >
@@ -109,7 +109,11 @@ Arduino is an educational C-programming (C++) platform resource designed for use
 ### Project 4: Digital Inputs <a name="Project 4: Digital Inputs"></a>
 ![DigitalInput.gif](/Arduino/Project 4: Digital Inputs/DigitalInput.gif)<br/>
 
-<!-- Component Required List -->
+<!-- Description & Learning Overview -->
+> ### Description:
+>
+>> Project 4: Digital Inputs demonstrated with the MEGA2560 R3 board, is the fourth project from Elegoo’s Arduino manuel. This particular project utilizes two push switch buttons and a single controllable 5mm colored LED on a connected breadboard. In addition, we learn how to use the 'setup' function which will define our pins as either inputs or outputs. With this information in mind, the goal of this project is to get the 5mm colored LED to light up (or turn off) via user input from the two push switch buttons.
+>
 > ### Components Required:
 >
 >> - (1) x Elegoo Mega2560 R3
@@ -118,9 +122,14 @@ Arduino is an educational C-programming (C++) platform resource designed for use
 >> - (1) x 220 ohm resistor
 >> - (2) x push switches
 >> - (7) x M-M wires (Male to Male jumper wires)
-
-Resources for - Project 4: Digital Inputs<br/>
-[Code (DigitalInput.ino)](https://github.com/CHill-Three/arduino.github.io/blob/master/Arduino/Project%204:%20Digital%20Inputs/DigitalInputs.ino)<br/>
+>
+> ### Learning Overview:
+>
+>> In my opinion, Project 4: Digital Inputs is a step in the right direction, in terms of increasing difficulty. This concept of the buttons utilizing a 'high' or 'low' value is essentially binary at it's core. Once again, is a very important concept to grasp when learning about circuits and I'm glad that the author(s) of this manuel introduced this early on. Overall, I enjoyed this project and if you decide to take on this project, I hope you enjoy it!
+>
+> ### Resource(s) for - Project 4: Digital Inputs:
+>
+>>[Code (DigitalInput.ino)](https://github.com/CHill-Three/arduino.github.io/blob/master/Arduino/Project%204:%20Digital%20Inputs/DigitalInputs.ino)<br/>
 
 <!-- Project 5: Active Buzzer (SUB-PARA) -->
 ### Project 5: Active Buzzer <a name="Project 5: Active Buzzer"></a>
